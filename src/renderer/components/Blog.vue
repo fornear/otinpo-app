@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div v-for="article of articles" :key="article.id">
+    <div v-for="article of reverseArticles" :key="article.id">
       <router-link :to="'/blog/'+article.id">{{article.Title}} posted by {{article.posted_by}} at {{article.published_at}}</router-link>
     </div>
   </div>
@@ -15,6 +15,11 @@ export default {
   data () {
     return {
       articles: []
+    }
+  },
+  computed: {
+    reverseArticles: function () {
+      return this.articles.slice().reverse()
     }
   },
   beforeCreate: async function () {

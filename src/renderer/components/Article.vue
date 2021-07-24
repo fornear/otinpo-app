@@ -4,12 +4,13 @@
     <div>
       <div>{{article.Title}}</div>
       <div>posted by {{article.posted_by}} at {{article.published_at}}</div>
-      <div>{{article.Text}}</div>
+      <VueMarkdown :source="article.Text"></VueMarkdown>
     </div>
   </div>
 </template>
 
 <script>
+import VueMarkdown from 'vue-markdown'
 const axios = require('axios')
 
 export default {
@@ -26,6 +27,9 @@ export default {
     } catch (error) {
       console.log(error)
     }
+  },
+  components: {
+    VueMarkdown
   }
 }
 </script>
