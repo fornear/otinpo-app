@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9e4afbe-19f1-4ab3-8aaa-34ea92f9becc" name="Default Changelist" comment="">
+    <list default="true" id="f9e4afbe-19f1-4ab3-8aaa-34ea92f9becc" name="Default Changelist" comment="gitignode追加">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/router/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +69,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627114669181</updated>
-      <workItem from="1627114670299" duration="4994000" />
+      <workItem from="1627114670299" duration="5083000" />
     </task>
+    <task id="LOCAL-00001" summary="gitignode追加">
+      <created>1627121141892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627121141892</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignode追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignode追加" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1220" y="262" key="FileChooserDialogImpl" timestamp="1627119293128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627119293128" />
-    <state x="821" y="432" key="Github.Dialog.Accounts.Choose" timestamp="1627120739013">
+    <state x="821" y="432" key="Github.Dialog.Accounts.Choose" timestamp="1627121163516">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="821" y="432" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1627120739013" />
+    <state x="821" y="432" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1627121163516" />
     <state x="796" y="400" key="Github.ShareDialog" timestamp="1627120722670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -71,6 +128,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="743" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627120735095" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1627121161074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627121161074" />
     <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1627115991409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
