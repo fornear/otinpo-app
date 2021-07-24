@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9e4afbe-19f1-4ab3-8aaa-34ea92f9becc" name="Default Changelist" comment="" />
+    <list default="true" id="f9e4afbe-19f1-4ab3-8aaa-34ea92f9becc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/router/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1vkmsZw2tVXILK6GUVSLp3QidFu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627114669181</updated>
-      <workItem from="1627114670299" duration="4584000" />
+      <workItem from="1627114670299" duration="4994000" />
     </task>
     <servers />
   </component>
@@ -51,6 +59,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627119293128" />
+    <state x="821" y="432" key="Github.Dialog.Accounts.Choose" timestamp="1627120739013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="821" y="432" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1627120739013" />
+    <state x="796" y="400" key="Github.ShareDialog" timestamp="1627120722670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="796" y="400" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627120722670" />
+    <state x="743" y="225" key="Github.UntrackedFilesDialog" timestamp="1627120735095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627120735095" />
     <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1627115991409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

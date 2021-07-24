@@ -6,7 +6,6 @@ import createWebHistory from 'vue-router'
 Vue.use(Router)
 
 export default new Router({
-  // history: process.env.IS_ELECTRON ? createWebHashHistory() : createWebHistory(),
   mode: process.env.IS_ELECTRON ? 'hash' : 'history',
   routes: [
     {
